@@ -1,0 +1,34 @@
+{
+  "1": {
+    "name": "a",
+    "description": "b",
+    "affect_type": "c",
+    "affect_key": "d",
+    "affect_value": "e",
+    "icon_path": "f"
+  },
+  "2": {
+    "name": "a",
+    "description": "b",
+    "affect_type": "c",
+    "affect_key": "d",
+    "affect_value": "e",
+    "icon_path": "f"
+  },
+  "3": {
+    "name": "a",
+    "description": "b",
+    "affect_type": "c",
+    "affect_key": "d",
+    "affect_value": "e",
+    "icon_path": "f"
+  },
+  "4": {
+    "name": "a",
+    "description": "b",
+    "affect_type": "c",
+    "affect_key": "d",
+    "affect_value": "e",
+    "icon_path": "f"
+  }
+}
